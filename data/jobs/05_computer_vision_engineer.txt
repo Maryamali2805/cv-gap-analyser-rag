@@ -1,0 +1,37 @@
+Job Title: Computer Vision Engineer
+Company: Retina Robotics
+Location: Bristol, UK (On-site)
+Salary: £60,000 – £80,000
+
+About the Role
+Retina Robotics develops autonomous inspection systems for industrial and infrastructure clients. Our computer vision pipelines process real-time video streams from drone and robotic platforms to detect structural defects, safety hazards, and equipment faults. You will build and maintain the CV models at the core of our products.
+
+Key Responsibilities
+- Design, train, and deploy deep learning models for object detection, semantic segmentation, and anomaly detection on embedded and edge hardware.
+- Work with YOLO variants (YOLOv8, RT-DETR), Mask R-CNN, and vision transformers (ViT, DINO) for inspection tasks.
+- Build data pipelines for image and video ingestion, annotation management (CVAT, Roboflow), and augmentation.
+- Optimise models for edge deployment: TensorRT, ONNX, OpenVINO, NCNN.
+- Implement classical CV techniques alongside deep learning: optical flow, stereo depth estimation, camera calibration.
+- Validate model performance with rigorous metrics: mAP, IoU, precision-recall curves; ensure robustness to lighting and weather variation.
+- Integrate CV systems with ROS2 for robotic platforms.
+
+Required Skills & Experience
+- 3+ years of computer vision engineering experience.
+- Expert Python and PyTorch for CV model development.
+- Strong understanding of CNN architectures (ResNet, EfficientNet, ConvNeXt) and attention-based vision models.
+- Hands-on experience with object detection and segmentation frameworks (Detectron2, MMDetection, Ultralytics).
+- Experience with OpenCV for classical image processing.
+- Knowledge of model quantisation, pruning, and deployment optimisation.
+- Experience with GPU computing and CUDA.
+- Familiarity with Linux and embedded systems.
+
+Desirable Skills
+- Experience with 3D computer vision: point clouds, LiDAR, depth cameras (Intel RealSense, ZED).
+- Knowledge of ROS2 for robotic integration.
+- Familiarity with synthetic data generation (Blender, NVIDIA Isaac Sim).
+- Experience with video understanding models: SlowFast, TimeSformer.
+- Background in industrial inspection, NDT, or drone systems.
+- C++ skills for performance-critical CV components.
+
+Tech Stack
+Python, PyTorch, OpenCV, CUDA, TensorRT, ONNX, ROS2, Docker, Linux

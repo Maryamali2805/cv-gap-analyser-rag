@@ -1,0 +1,38 @@
+Job Title: MLOps Engineer
+Company: Continuum ML
+Location: London / Remote, UK
+Salary: £70,000 – £90,000
+
+About the Role
+Continuum ML is a specialist MLOps consultancy helping FTSE 100 companies industrialise their machine learning capabilities. You will join our platform engineering team to design and build ML infrastructure that allows data science teams to train, deploy, monitor, and iterate on models reliably at scale.
+
+Key Responsibilities
+- Design and implement end-to-end ML pipelines: data ingestion, feature engineering, training, evaluation, deployment, and monitoring.
+- Build and maintain ML platforms using Kubeflow, MLflow, or ZenML on Kubernetes clusters (EKS/GKE/AKS).
+- Implement infrastructure-as-code for ML environments using Terraform and Helm.
+- Set up model and data monitoring: drift detection (Evidently AI, Whylogs), alerting, and automated retraining triggers.
+- Build CI/CD pipelines for ML workflows: automated testing of data pipelines, model quality gates, shadow deployment, canary releases.
+- Design and implement feature stores (Feast, Tecton) for consistent feature computation across training and serving.
+- Work closely with data scientists to containerise models and standardise experiment tracking.
+- Ensure ML systems meet enterprise reliability, security, and compliance requirements.
+
+Required Skills & Experience
+- 3+ years in a DevOps, platform engineering, or MLOps role.
+- Strong Python and shell scripting skills.
+- Expert with Docker and Kubernetes; experience managing production clusters.
+- Hands-on with at least one major cloud provider: AWS (SageMaker, EKS, S3), GCP (Vertex AI, GKE), or Azure (AML, AKS).
+- Experience with MLflow, Weights & Biases, or similar experiment tracking platforms.
+- Proficiency with Terraform or Pulumi for infrastructure-as-code.
+- Experience with CI/CD tools: GitHub Actions, GitLab CI, ArgoCD, or Flux.
+- Solid understanding of software engineering: Git, testing, code reviews, documentation.
+
+Desirable Skills
+- Familiarity with feature store platforms (Feast, Tecton).
+- Experience with streaming data pipelines (Kafka, Kinesis, Spark Streaming) for online feature serving.
+- Knowledge of model serving frameworks: Triton, BentoML, Seldon Core.
+- Security and compliance experience (SOC 2, ISO 27001, data encryption, access control).
+- Certifications: CKA, AWS Solutions Architect, or Google Professional ML Engineer.
+- Background contributing to open-source MLOps tooling.
+
+Tech Stack
+Python, Docker, Kubernetes, Terraform, MLflow, Kubeflow, AWS/GCP, Kafka, Prometheus, Grafana, ArgoCD

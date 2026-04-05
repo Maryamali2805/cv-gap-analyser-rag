@@ -1,0 +1,38 @@
+Job Title: Senior Data Scientist
+Company: FinEdge Technologies
+Location: London, UK (Hybrid – 3 days on-site)
+Salary: £75,000 – £95,000 + bonus + equity
+
+About the Role
+FinEdge Technologies is building the next generation of algorithmic credit scoring and fraud detection systems. As a Senior Data Scientist, you will own end-to-end model development—from feature engineering through to production deployment—within a cross-functional team of engineers and product managers.
+
+Key Responsibilities
+- Design, train, and evaluate machine learning models for credit risk, fraud detection, and customer lifetime value prediction.
+- Work with large-scale structured and time-series transaction data (billions of rows) using Spark and distributed SQL.
+- Collaborate with MLOps engineers to move models from Jupyter notebooks into production pipelines on AWS SageMaker.
+- Conduct rigorous A/B testing and causal inference analyses to measure business impact of model changes.
+- Mentor junior data scientists and review pull requests.
+- Present findings to the CFO and Head of Risk in clear, non-technical language.
+
+Required Skills & Experience
+- 4+ years of industry experience in a data science or quantitative analyst role.
+- Expert-level Python: pandas, NumPy, scikit-learn, XGBoost, LightGBM.
+- Strong knowledge of statistical modelling: logistic regression, survival analysis, Bayesian inference.
+- Experience with SQL (BigQuery or Redshift preferred) and Spark/PySpark for large-scale data processing.
+- Solid understanding of model validation: cross-validation, stratified sampling, AUC-ROC, Gini coefficient, PSI.
+- Hands-on experience with MLflow or similar experiment tracking tools.
+- Familiarity with Docker and basic CI/CD practices (GitHub Actions or Jenkins).
+- Excellent written and verbal communication skills.
+
+Desirable Skills
+- Experience in regulated financial environments (FCA, Basel III context).
+- Knowledge of interpretable ML (SHAP, LIME) for model explainability.
+- Familiarity with Kubernetes for model serving.
+- Prior experience with graph neural networks or network analysis for fraud.
+- AWS certifications (Solutions Architect or Machine Learning Specialty).
+
+Tech Stack
+Python, PySpark, BigQuery, AWS SageMaker, MLflow, Docker, GitHub Actions, Tableau
+
+Equal Opportunity
+FinEdge Technologies is committed to building a diverse team. We encourage applications from all backgrounds.

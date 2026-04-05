@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+*.env
+
+# FAISS index (built locally on first run — not committed)
+faiss_index/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# HuggingFace model cache (large, not needed in repo)
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

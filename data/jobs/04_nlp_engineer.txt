@@ -1,0 +1,37 @@
+Job Title: NLP / LLM Engineer
+Company: Speechmark Labs
+Location: Edinburgh, UK (Hybrid)
+Salary: £70,000 – £90,000
+
+About the Role
+Speechmark Labs builds conversational AI products for legal tech and professional services. We need an NLP Engineer who is deeply familiar with transformer architectures and has hands-on experience fine-tuning and deploying LLMs in production. You will work on contract understanding, legal document summarisation, and question-answering systems.
+
+Key Responsibilities
+- Fine-tune and evaluate large language models (GPT-4, Claude, Llama-3, Mistral) for domain-specific tasks including legal document understanding and entity extraction.
+- Design and implement RAG (Retrieval-Augmented Generation) pipelines using vector databases (Pinecone, Chroma, FAISS) and embedding models.
+- Evaluate LLM outputs: hallucination detection, factual consistency scoring (BERTScore, ROUGE, faithfulness metrics).
+- Build production NLP pipelines for named entity recognition (NER), relation extraction, and coreference resolution.
+- Implement prompt engineering strategies, chain-of-thought prompting, and few-shot learning patterns.
+- Optimise inference costs: quantisation (GPTQ, AWQ), vLLM serving, batching strategies.
+- Work with annotators to design labelling schemas and measure inter-annotator agreement (Cohen's Kappa).
+
+Required Skills & Experience
+- 3+ years building production NLP systems.
+- Deep understanding of transformer architectures (attention mechanisms, tokenisation, positional encodings).
+- Proficiency in Python and HuggingFace ecosystem: Transformers, Datasets, PEFT, Evaluate.
+- Experience with LangChain, LlamaIndex, or similar orchestration frameworks.
+- Hands-on fine-tuning experience: LoRA/QLoRA, instruction tuning, RLHF concepts.
+- Strong grounding in NLP evaluation: BLEU, ROUGE, BERTScore, RAGAs.
+- Experience with vector databases: Pinecone, Weaviate, FAISS, or Chroma.
+- Proficient with PyTorch.
+
+Desirable Skills
+- Experience with multimodal models (vision-language models: LLaVA, CLIP).
+- Knowledge of legal or professional services domain.
+- Contributions to open-source NLP projects.
+- Experience with speech recognition (Whisper, wav2vec) or TTS systems.
+- Understanding of Constitutional AI, RLHF, and alignment techniques.
+- Academic background in computational linguistics or ML.
+
+Tech Stack
+Python, PyTorch, HuggingFace, LangChain, FAISS, Pinecone, vLLM, AWS, FastAPI

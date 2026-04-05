@@ -1,0 +1,39 @@
+Job Title: Machine Learning Engineer
+Company: Luminate AI
+Location: Manchester, UK (Remote-first, occasional travel to Manchester HQ)
+Salary: £65,000 – £85,000
+
+About the Role
+Luminate AI provides computer vision and NLP APIs to enterprise clients. We are looking for an ML Engineer who bridges the gap between research and production—someone equally comfortable reading a transformer paper and writing a Kubernetes deployment manifest.
+
+Key Responsibilities
+- Convert research prototypes (PyTorch/TensorFlow) into scalable, monitored, production ML services.
+- Design and maintain training pipelines using Kubeflow Pipelines or Apache Airflow.
+- Optimise model inference latency (quantisation, ONNX export, TensorRT) to meet sub-100ms SLA targets.
+- Build and maintain feature stores for real-time and batch feature serving.
+- Implement data and model monitoring (data drift, concept drift, model performance degradation).
+- Write clean, testable Python with type hints; maintain >80% unit test coverage.
+- Participate in on-call rotation for production ML services.
+
+Required Skills & Experience
+- 3+ years in a software engineering or ML engineering role.
+- Proficient in Python and at least one deep learning framework (PyTorch preferred).
+- Strong software engineering fundamentals: OOP, design patterns, clean code.
+- Experience with containerisation (Docker) and orchestration (Kubernetes, Helm).
+- Hands-on with CI/CD pipelines (GitHub Actions, CircleCI, or GitLab CI).
+- Familiarity with cloud platforms: AWS (EC2, S3, ECS, Lambda) or GCP (Vertex AI, GKE).
+- Understanding of model serving frameworks: TorchServe, Triton Inference Server, or BentoML.
+- Experience with monitoring stacks: Prometheus, Grafana, or similar.
+
+Desirable Skills
+- Experience fine-tuning large language models (LLMs) using PEFT/LoRA techniques.
+- Knowledge of Rust or Go for performance-critical microservices.
+- Familiarity with Terraform or Pulumi for infrastructure-as-code.
+- Contribution to open-source ML projects on GitHub.
+- Experience with streaming platforms (Kafka, Kinesis) for real-time ML inference.
+
+Tech Stack
+Python, PyTorch, Docker, Kubernetes, Kubeflow, AWS, MLflow, Prometheus, Grafana, GitHub Actions
+
+Interview Process
+Technical screen → System design interview (ML system design) → Coding challenge → Team fit

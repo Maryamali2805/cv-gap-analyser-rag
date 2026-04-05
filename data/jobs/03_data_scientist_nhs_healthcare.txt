@@ -1,0 +1,37 @@
+Job Title: Data Scientist (Healthcare Analytics)
+Company: NHS England – Digital Analytics and Research Team (DART)
+Location: Leeds / London, UK (Hybrid)
+Salary: Band 7 – £43,742 to £50,056 (AfC pay scale)
+
+About the Role
+NHS England's Digital Analytics and Research Team (DART) uses data to improve patient outcomes across the health service. As a Data Scientist in DART, you will work on population health management, hospital resource forecasting, and clinical trial data analysis. Your work will directly influence NHS policy and resource allocation decisions affecting millions of patients.
+
+Key Responsibilities
+- Develop predictive models for patient readmission risk, A&E demand forecasting, and elective waiting list management.
+- Analyse linked administrative health datasets (HES, CPRD, ONS mortality data) using Python and R.
+- Apply survival analysis and competing risks models to patient pathway data.
+- Produce reproducible analytical pipelines following RAP (Reproducible Analytical Pipeline) principles.
+- Work with clinical informatics teams to ensure data quality and validate clinical coding.
+- Write clear analytical reports and present findings to clinical directors and NHS board members.
+- Ensure all analysis complies with NHS data governance frameworks (DSP Toolkit, IG guidelines).
+- Collaborate with academic partners and contribute to peer-reviewed publications.
+
+Required Skills & Experience
+- Degree in a quantitative discipline (statistics, mathematics, epidemiology, computer science, or similar).
+- Proficiency in Python (pandas, scikit-learn, statsmodels) and/or R (tidyverse, survival, ggplot2).
+- Strong applied statistics: regression, GLMs, survival analysis, time-series forecasting.
+- Experience working with large administrative or electronic health record datasets.
+- Understanding of epidemiological study designs: cohort, case-control, cross-sectional.
+- Ability to communicate statistical uncertainty and limitations clearly to non-technical audiences.
+- Experience with version control (Git) and reproducible research practices.
+
+Desirable Skills
+- Familiarity with NHS data sources: HES, CPRD, SUS, SNOMED CT, ICD-10 coding.
+- Experience with Databricks or Azure Data Factory for healthcare data pipelines.
+- Knowledge of causal inference methods (propensity score matching, instrumental variables, difference-in-differences).
+- Understanding of NHS data governance and Caldicott principles.
+- Publications or conference presentations in health data science.
+- Knowledge of NLP techniques for clinical free-text analysis.
+
+Values
+Commitment to NHS values: compassion, respect, inclusivity. Security clearance (DBS enhanced check) required.

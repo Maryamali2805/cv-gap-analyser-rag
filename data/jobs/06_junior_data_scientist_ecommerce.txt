@@ -1,0 +1,38 @@
+Job Title: Junior Data Scientist
+Company: ShopStream UK
+Location: London, UK (Hybrid – 2 days on-site)
+Salary: £38,000 – £48,000
+
+About the Role
+ShopStream UK is a fast-growing e-commerce platform. We are hiring a Junior Data Scientist to join our Analytics team and help us understand customer behaviour, optimise our recommendation engine, and measure the impact of product experiments. This is an excellent opportunity for someone with 1–2 years of experience or a strong academic background to grow into a full data science role.
+
+Key Responsibilities
+- Conduct exploratory data analysis on customer purchase, browsing, and search data.
+- Build and evaluate recommendation models (collaborative filtering, content-based filtering).
+- Support A/B test design, statistical power calculations, and results interpretation.
+- Write SQL queries to extract and transform data from our Snowflake data warehouse.
+- Produce dashboards and visualisations in Looker and Python (matplotlib, seaborn, Plotly).
+- Maintain and document analytical pipelines in our shared GitHub repository.
+- Present insights to product managers and marketing stakeholders.
+
+Required Skills & Experience
+- Degree (2:1 or above) in a quantitative discipline: mathematics, statistics, computer science, physics, economics, or similar.
+- Proficiency in Python for data analysis: pandas, NumPy, scikit-learn, matplotlib.
+- Strong SQL skills: joins, window functions, CTEs.
+- Understanding of core statistical concepts: hypothesis testing, p-values, confidence intervals, regression.
+- Familiarity with Git and collaborative development practices.
+- Ability to communicate findings clearly in written reports and slides.
+- Intellectual curiosity and eagerness to learn in a fast-paced startup environment.
+
+Desirable Skills
+- Exposure to machine learning: classification, clustering, regression in a project or academic context.
+- Experience with a cloud data warehouse (Snowflake, BigQuery, or Redshift).
+- Familiarity with dbt for data transformation.
+- Basic knowledge of recommendation systems or collaborative filtering.
+- Experience with Tableau, Looker, or Power BI.
+- Side projects, Kaggle competitions, or GitHub portfolio demonstrating applied ML work.
+
+Growth Opportunities
+Structured mentorship from senior data scientists. Access to internal learning budget (£2,000/year for courses, conferences, and certifications). Clear path to Mid-level Data Scientist within 18–24 months.
+
+Perks: 25 days holiday, private health insurance, flexible hours, remote-work equipment budget.

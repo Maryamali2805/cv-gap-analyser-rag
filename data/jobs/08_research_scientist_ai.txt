@@ -1,0 +1,35 @@
+Job Title: Research Scientist – AI / Machine Learning
+Company: DeepAxis Research
+Location: Cambridge, UK (Hybrid)
+Salary: £80,000 – £110,000 + publication bonus
+
+About the Role
+DeepAxis Research is a deep tech company spun out of the University of Cambridge. We work on fundamental and applied ML research, with a current focus on uncertainty quantification, out-of-distribution detection, and efficient neural architecture search. You will conduct original research, publish at top ML venues, and translate findings into production systems.
+
+Key Responsibilities
+- Conduct independent and collaborative research in deep learning, probabilistic modelling, or related areas.
+- Publish papers at venues including NeurIPS, ICML, ICLR, CVPR, ACL, and EMNLP.
+- Implement research ideas in PyTorch and contribute to our internal research codebase.
+- Collaborate with applied ML teams to transfer research advances into product.
+- Mentor PhD interns and junior researchers.
+- Present research at conferences, workshops, and industry events.
+- Stay current with the rapidly evolving ML literature; lead internal paper reading groups.
+
+Required Skills & Experience
+- PhD in Machine Learning, Computer Science, Statistics, or a closely related field; or equivalent research experience with a strong publication record.
+- Deep theoretical knowledge of machine learning: probabilistic graphical models, variational inference, Gaussian processes, or deep learning theory.
+- Expert Python and PyTorch (or JAX) skills; ability to implement novel architectures from scratch.
+- Strong mathematical foundations: linear algebra, probability theory, information theory, optimisation.
+- Track record of publications at top ML conferences or journals.
+- Ability to define and pursue research directions with limited supervision.
+
+Desirable Skills
+- Experience with one or more of: uncertainty quantification, Bayesian deep learning, meta-learning, continual learning, or neural architecture search.
+- Familiarity with JAX and functional ML frameworks (Flax, Haiku).
+- Experience with distributed training (DeepSpeed, FSDP, Megatron-LM) for large-scale experiments.
+- Knowledge of hardware-aware ML: TPUs, custom CUDA kernels, flash attention.
+- Connections to the UK academic ML community; collaborations with university groups.
+- Open-source contributions to foundational ML libraries.
+
+Research Culture
+Publish-or-perish culture is not for us: we value depth over volume. Researchers have 20% self-directed time for moonshot ideas. We sponsor visa applications and relocation.
